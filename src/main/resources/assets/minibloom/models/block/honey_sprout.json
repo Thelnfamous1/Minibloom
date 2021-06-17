@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "minibloom:block/honey_sprout"
+  }
+}
